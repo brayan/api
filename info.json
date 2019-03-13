@@ -2,17 +2,17 @@
 	"name": "Brayan Bedritchuk",
 	"jobTitle": "Software Developer",
 	"email": "brayan.bedritchuk@gmail.com",
-	"picture": "https://raw.githubusercontent.com/brayan/sample-data/master/resources/img/profile.jpg",
+	"picture": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/profile.jpg",
 	"social": [
 		{
 			"name": "Facebook",
 			"url": "https://facebook.com/brayanbedritchuk",
-			"icon": "https://raw.githubusercontent.com/brayan/sample-data/master/resources/img/social/facebook-box.svg"
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/facebook-box.svg"
 		},
 		{
 			"name": "Google Play",
 			"url": "https://facebook.com/brayanbedritchuk",
-			"icon": "https://raw.githubusercontent.com/brayan/sample-data/master/resources/img/social/google-play.svg"
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/google-play.svg"
 		}
 	]
 }
