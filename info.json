@@ -5,14 +5,34 @@
 	"picture": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/profile.jpg",
 	"social": [
 		{
+			"name": "Google Play",
+			"url": "https://facebook.com/brayanbedritchuk",
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/google-play.svg"
+		},
+		{
+			"name": "GitHub",
+			"url": "https://github.com/BrayanBedritchuk",
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/github-box.svg"
+		},
+		{
+			"name": "LinkedIn",
+			"url": "https://linkedin.com/in/brayan-bedritchuk-3815338b",
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/linkedin-box.svg"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://youtube.com/user/brayanbedritchuk",
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/youtube-play.svg"
+		},
+		{
 			"name": "Facebook",
 			"url": "https://facebook.com/brayanbedritchuk",
 			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/facebook-box.svg"
 		},
 		{
-			"name": "Google Play",
-			"url": "https://facebook.com/brayanbedritchuk",
-			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/google-play.svg"
+			"name": "Instagram",
+			"url": "https://instagram.com/brayanbedritchuk",
+			"icon": "https://raw.githubusercontent.com/brayan/portfolio-data/master/resources/img/social/instagram.svg"
 		}
 	]
 }
