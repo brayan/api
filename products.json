@@ -1,0 +1,42 @@
+[ 
+    {
+        "name": "Pepsi",
+        "quantity": 1,
+        "size": "120ML",
+        "containerType": "CAN",
+        "reusable": false,
+        "currentPrice": 10.20,
+        "previousPrice": 10.60,
+        "image": "https://raw.githubusercontent.com/brayan/api/master/images/pepsi.jpg"
+    },
+    {
+        "name": "Pepsi Light",
+        "quantity": 24,
+        "size": "120ML",
+        "containerType": "CAN",
+        "reusable": false,
+        "currentPrice": 603.90,
+        "previousPrice": 0.0,
+        "image": "https://raw.githubusercontent.com/brayan/api/master/images/pepsi-light.jpg"
+    },
+    {
+        "name": "Seven UP",
+        "quantity": 24,
+        "size": "120ML",
+        "containerType": "CAN",
+        "reusable": true,
+        "currentPrice": 200.90,
+        "previousPrice": 380.20,
+        "image": "https://raw.githubusercontent.com/brayan/api/master/images/7-up.jpg"
+    },
+    {
+        "name": "Ron Barceló",
+        "quantity": 1,
+        "size": "705ML",
+        "containerType": "BOTTLE",
+        "reusable": true,
+        "currentPrice": 100.0,
+        "previousPrice": 0.0,
+        "image": "https://raw.githubusercontent.com/brayan/api/master/images/ron-barcelo.png"
+    } 
+]
