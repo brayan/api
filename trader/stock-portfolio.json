@@ -1,0 +1,60 @@
+{
+    "stocks": [
+        {
+            "ticker": "AGRO3",
+            "averagePrice": 28.85
+        },
+        {
+            "ticker": "BBAS3",
+            "averagePrice": 43.31
+        },
+        {
+            "ticker": "BBSE3",
+            "averagePrice": 30.36
+        },
+        {
+            "ticker": "CPLE6",
+            "averagePrice": 7.08
+        },
+        {
+            "ticker": "EGIE3",
+            "averagePrice": 42.92
+        },
+        {
+            "ticker": "LEVE3",
+            "averagePrice": 25.86
+        },
+        {
+            "ticker": "PETR4",
+            "averagePrice": 31.87
+        },
+        {
+            "ticker": "TUPY3",
+            "averagePrice": 26.90
+        },
+        {
+            "ticker": "VALE3",
+            "averagePrice": 69.47
+        },
+        {
+            "ticker": "BTLG11",
+            "averagePrice": 104.47
+        },
+        {
+            "ticker": "IRDM11",
+            "averagePrice": 103.15
+        },
+        {
+            "ticker": "MALL11",
+            "averagePrice": 108.35
+        },
+        {
+            "ticker": "MCCI11",
+            "averagePrice": 97.97
+        },
+        {
+            "ticker": "TRXF11",
+            "averagePrice": 111.55
+        }
+    ]
+}
