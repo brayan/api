@@ -3,72 +3,86 @@
         {
             "name": "Brasilagro",
             "ticker": "AGRO3",
-            "averagePrice": 28.85
+            "averagePrice": 28.85,
+            "ceilingPrice": 31.50
         },
         {
             "name": "Banco do Brasil SA",
             "ticker": "BBAS3",
-            "averagePrice": 43.31
+            "averagePrice": 43.31,
+            "ceilingPrice": 46.47
         },
         {
             "name": "BB Seguridade",
             "ticker": "BBSE3",
-            "averagePrice": 30.36
+            "averagePrice": 30.36,
+            "ceilingPrice": 33.75
         },
         {
             "name": "Copel",
             "ticker": "CPLE6",
-            "averagePrice": 7.08
+            "averagePrice": 7.08,
+            "ceilingPrice": 7.80
         },
         {
             "name": "ENGIE Brasil",
             "ticker": "EGIE3",
-            "averagePrice": 42.92
+            "averagePrice": 42.92,
+            "ceilingPrice": 50.0
         },
         {
             "name": "Mahle Metal Leve SA",
             "ticker": "LEVE3",
-            "averagePrice": 25.86
+            "averagePrice": 25.86,
+            "ceilingPrice": 26.24
         },
         {
             "name": "Petrobras",
             "ticker": "PETR4",
-            "averagePrice": 31.87
+            "averagePrice": 31.87,
+            "ceilingPrice": 34.0
         },
         {
             "name": "Tupy SA",
             "ticker": "TUPY3",
-            "averagePrice": 26.90
+            "averagePrice": 26.90,
+            "ceilingPrice": 27.0
         },
         {
             "name": "Vale SA",
             "ticker": "VALE3",
-            "averagePrice": 69.47
+            "averagePrice": 69.47,
+            "ceilingPrice": 90.0
         },
         {
             "name": "BTG Pactual Logistica FI Imobiliario",
             "ticker": "BTLG11",
-            "averagePrice": 104.47
+            "averagePrice": 104.47,
+            "ceilingPrice": 118.0
         },
         {
             "name": "FI Imobiliario Iridium Recebiveis Imobiliarios",
             "ticker": "IRDM11",
-            "averagePrice": 103.15
+            "averagePrice": 103.15,
+            "ceilingPrice": 107.0
         },
         {
             "name": "Malls Brasil Plural FI Imobiliario",
             "ticker": "MALL11",
-            "averagePrice": 108.35
+            "averagePrice": 108.35,
+            "ceilingPrice": 117.0
         },
         {
             "name": "FII Maua Capital Recebiveis Imobiliarios FII",
             "ticker": "MCCI11",
-            "averagePrice": 97.97
+            "averagePrice": 97.97,
+            "ceilingPrice": 104.0
         },
         {
             "name": "TRX Real Estate FII Closed Fund",
             "ticker": "TRXF11",
-            "averagePrice": 111.55
+            "averagePrice": 111.55,
+            "ceilingPrice": 122.0
         }
     ]
 }
