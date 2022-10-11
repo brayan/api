@@ -1,58 +1,72 @@
 {
     "stocks": [
         {
+            "name": "Brasilagro",
             "ticker": "AGRO3",
             "averagePrice": 28.85
         },
         {
+            "name": "Banco do Brasil SA",
             "ticker": "BBAS3",
             "averagePrice": 43.31
         },
         {
+            "name": "BB Seguridade",
             "ticker": "BBSE3",
             "averagePrice": 30.36
         },
         {
+            "name": "Copel",
             "ticker": "CPLE6",
             "averagePrice": 7.08
         },
         {
+            "name": "ENGIE Brasil",
             "ticker": "EGIE3",
             "averagePrice": 42.92
         },
         {
+            "name": "Mahle Metal Leve SA",
             "ticker": "LEVE3",
             "averagePrice": 25.86
         },
         {
+            "name": "Petrobras",
             "ticker": "PETR4",
             "averagePrice": 31.87
         },
         {
+            "name": "Tupy SA",
             "ticker": "TUPY3",
             "averagePrice": 26.90
         },
         {
+            "name": "Vale SA",
             "ticker": "VALE3",
             "averagePrice": 69.47
         },
         {
+            "name": "BTG Pactual Logistica FI Imobiliario",
             "ticker": "BTLG11",
             "averagePrice": 104.47
         },
         {
+            "name": "FI Imobiliario Iridium Recebiveis Imobiliarios",
             "ticker": "IRDM11",
             "averagePrice": 103.15
         },
         {
+            "name": "Malls Brasil Plural FI Imobiliario",
             "ticker": "MALL11",
             "averagePrice": 108.35
         },
         {
+            "name": "FII Maua Capital Recebiveis Imobiliarios FII",
             "ticker": "MCCI11",
             "averagePrice": 97.97
         },
         {
+            "name": "TRX Real Estate FII Closed Fund",
             "ticker": "TRXF11",
             "averagePrice": 111.55
         }
