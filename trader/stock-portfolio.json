@@ -9,13 +9,13 @@
         {
             "name": "Banco do Brasil SA",
             "ticker": "BBAS3",
-            "averagePrice": 43.31,
+            "averagePrice": 41.75,
             "ceilingPrice": 46.47
         },
         {
             "name": "BB Seguridade",
             "ticker": "BBSE3",
-            "averagePrice": 30.38,
+            "averagePrice": 29.50,
             "ceilingPrice": 33.75
         },
         {
@@ -27,7 +27,7 @@
         {
             "name": "ENGIE Brasil",
             "ticker": "EGIE3",
-            "averagePrice": 42.94,
+            "averagePrice": 41.81,
             "ceilingPrice": 50.0
         },
         {
