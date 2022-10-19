@@ -9,7 +9,7 @@
         {
             "name": "Banco do Brasil SA",
             "ticker": "BBAS3",
-            "averagePrice": 41.75,
+            "averagePrice": 41.62,
             "ceilingPrice": 46.47
         },
         {
@@ -27,7 +27,7 @@
         {
             "name": "ENGIE Brasil",
             "ticker": "EGIE3",
-            "averagePrice": 41.81,
+            "averagePrice": 41.04,
             "ceilingPrice": 50.0
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "FI Imobiliario Iridium Recebiveis Imobiliarios",
             "ticker": "IRDM11",
-            "averagePrice": 103.15,
+            "averagePrice": 101.60,
             "ceilingPrice": 107.0
         },
         {
@@ -75,7 +75,7 @@
         {
             "name": "FII Maua Capital Recebiveis Imobiliarios FII",
             "ticker": "MCCI11",
-            "averagePrice": 97.97,
+            "averagePrice": 97.14,
             "ceilingPrice": 104.0
         },
         {
