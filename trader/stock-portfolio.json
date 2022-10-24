@@ -57,7 +57,7 @@
         {
             "name": "BTG Pactual Logistica FI Imobiliario",
             "ticker": "BTLG11",
-            "averagePrice": 104.46,
+            "averagePrice": 103.79,
             "ceilingPrice": 118.0
         },
         {
@@ -69,7 +69,7 @@
         {
             "name": "Malls Brasil Plural FI Imobiliario",
             "ticker": "MALL11",
-            "averagePrice": 110.01,
+            "averagePrice": 109.86,
             "ceilingPrice": 117.0
         },
         {
@@ -81,7 +81,7 @@
         {
             "name": "TRX Real Estate FII Closed Fund",
             "ticker": "TRXF11",
-            "averagePrice": 111.55,
+            "averagePrice": 110.55,
             "ceilingPrice": 122.0
         }
     ]
