@@ -19,6 +19,12 @@
             "ceilingPrice": 33.75
         },
         {
+            "name": "Celulose Irani",
+            "ticker": "RANI3",
+            "averagePrice": 8.91,
+            "ceilingPrice": 10.0
+        },
+        {
             "name": "Copel",
             "ticker": "CPLE6",
             "averagePrice": 6.76,
