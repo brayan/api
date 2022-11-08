@@ -1,0 +1,39 @@
+{
+	"name": "Brayan Bedritchuk",
+	"job": "Software Engineer",
+	"email": "brayan.bedritchuk@gmail.com",
+	"site": "https://brayan.com.br/",
+	"picture": "https://brayan.com.br/api/images/profile.jpg",
+	"social": [
+		{
+			"name": "Google Play",
+			"url": "https://play.google.com/store/apps/dev?id=7985305984228695043",
+			"icon": "fab fa-google-play"
+		},
+		{
+			"name": "GitHub",
+			"url": "https://github.com/brayan",
+			"icon": "fab fa-github"
+		},
+		{
+			"name": "LinkedIn",
+			"url": "https://linkedin.com/in/brayan-bedritchuk-3815338b",
+			"icon": "fab fa-linkedin"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://youtube.com/user/brayanbedritchuk",
+			"icon": "fab fa-youtube"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://facebook.com/brayanbedritchuk",
+			"icon": "fab fa-facebook-square"
+		},
+		{
+			"name": "Instagram",
+			"url": "https://instagram.com/brayanbedritchuk",
+			"icon": "fab fa-instagram"
+		}
+	]
+}
