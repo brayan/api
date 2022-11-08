@@ -89,6 +89,18 @@
             "ticker": "TRXF11",
             "averagePrice": 110.55,
             "ceilingPrice": 122.0
+        },
+        {
+            "name": "iShares BM&FBOVESPA Small Cap Fundo de Índice",
+            "ticker": "SMALL11",
+            "averagePrice": 107.85,
+            "ceilingPrice": 120.0
+        },
+        {
+            "name": "iShares S&P 500 FI em Cotas de Fundo de Índice - Inv. no Exterior",
+            "ticker": "IVVB11",
+            "averagePrice": 214.32,
+            "ceilingPrice": 230.0
         }
     ]
 }
