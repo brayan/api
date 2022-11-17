@@ -3,13 +3,13 @@
         {
             "name": "Brasilagro",
             "ticker": "AGRO3",
-            "averagePrice": 28.85,
+            "averagePrice": 28.27,
             "ceilingPrice": 31.50
         },
         {
             "name": "Banco do Brasil SA",
             "ticker": "BBAS3",
-            "averagePrice": 39.78,
+            "averagePrice": 38.41,
             "ceilingPrice": 46.47
         },
         {
@@ -45,7 +45,7 @@
         {
             "name": "Petrobras",
             "ticker": "PETR4",
-            "averagePrice": 30.62,
+            "averagePrice": 29.45,
             "ceilingPrice": 34.0
         },
         {
@@ -63,31 +63,31 @@
         {
             "name": "BTG Pactual Logistica FI Imobiliario",
             "ticker": "BTLG11",
-            "averagePrice": 103.79,
+            "averagePrice": 102.65,
             "ceilingPrice": 118.0
         },
         {
             "name": "FI Imobiliario Iridium Recebiveis Imobiliarios",
             "ticker": "IRDM11",
-            "averagePrice": 101.60,
+            "averagePrice": 99.87,
             "ceilingPrice": 107.0
         },
         {
             "name": "Malls Brasil Plural FI Imobiliario",
             "ticker": "MALL11",
-            "averagePrice": 109.86,
+            "averagePrice": 108.75,
             "ceilingPrice": 117.0
         },
         {
             "name": "FII Maua Capital Recebiveis Imobiliarios FII",
             "ticker": "MCCI11",
-            "averagePrice": 97.14,
+            "averagePrice": 96.73,
             "ceilingPrice": 104.0
         },
         {
             "name": "TRX Real Estate FII Closed Fund",
             "ticker": "TRXF11",
-            "averagePrice": 110.55,
+            "averagePrice": 109.11,
             "ceilingPrice": 122.0
         },
         {
